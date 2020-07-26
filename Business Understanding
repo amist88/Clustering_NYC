@@ -1,1 +1,2 @@
-
+The aim is to determine if there is a certain clustering of Indian restarants in Manhatten, to determine where the best location to start a new restaurant business is.
+For this K-clustering will be used to analyse the various regions of the city with regards to Indian cuisine. The data will be obtained from forusquare and the maps as a .json from https://cocl.us/new_york_dataset
